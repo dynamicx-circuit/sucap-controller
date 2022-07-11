@@ -1,0 +1,12 @@
+SucapController-backups/
+SucapController/
+
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*.zip
+*.pdf
