@@ -3655,7 +3655,7 @@
     (property "Value" "Screw_Terminal_01x01" (id 1) (at 258.572 111.0866 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "MyLib:TestPoint" (id 2) (at 256.54 109.22 0)
+    (property "Footprint" "GENERAL_HOLE:HOLE-04-03_1" (id 2) (at 256.54 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 256.54 109.22 0)
@@ -5661,7 +5661,7 @@
       (reference "J6") (unit 1) (value "Conn_02x03_Counter_Clockwise") (footprint "CONNECTOR_PINHEADER_SMD:PINHEADER_02x03_1.27mm")
     )
     (path "/2e08f475-ee42-4a20-b1f8-60a249905852"
-      (reference "J7") (unit 1) (value "Screw_Terminal_01x01") (footprint "MyLib:TestPoint")
+      (reference "J7") (unit 1) (value "Screw_Terminal_01x01") (footprint "GENERAL_HOLE:HOLE-04-03_1")
     )
     (path "/a96d2ea9-a484-4ab3-ada3-7553f2399c09"
       (reference "Q1") (unit 1) (value "SI2301") (footprint "GENERAL_SMALL-SEMI_SMD:SOT-23")
